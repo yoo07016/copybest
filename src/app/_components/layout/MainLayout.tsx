@@ -2,6 +2,7 @@ import { ReactNode } from "react";
 import "@/app/globals.css"
 import MenuLayout from "./MenuLayout";
 import Link from "next/link";
+import Investing from '@/../public/investing-com.svg';
 
 const MainLayout = ({ children }: { children: ReactNode }) => {
     return (
